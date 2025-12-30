@@ -20,11 +20,5 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nagosu&count_private=true&show_icons=true&locale=en&custom_title=nagosu&#39;s&nbsp;Github&nbsp;Stat&bg_color=180,000000,&title_color=000000&text_color=000000&disable_animations=false&line_height=28" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagosu&layout=donut&bg_color=180,000000,&title_color=000000&text_color=000000&locale=en&disable_animations=false&count_private=true&langs_count=5"
-          />
-    </div> 
   </div>
     
