@@ -14,11 +14,18 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=mailto:jinwoo.park.4191@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jinwoo.park.4191@gmail.com"> </a>
-         <a href=https://velog.io/@nagosu/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@nagosu/posts"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+  <div style="text-align: left;">
+    <a href="mailto:jinwoo.park.4191@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://velog.io/@nagosu/posts">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/jinwoopark-dev/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    </a>
+  </div>
+</div>
   </div>
     
